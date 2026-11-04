@@ -1,0 +1,12 @@
+[general]
+output_dir = "./dataset"
+
+[camera]
+enabled = true
+device_index = 0
+image_format = "png"
+
+[wifi]
+enabled = true
+scan_interval_ms = 2000
+scan_wait_ms = 1000
